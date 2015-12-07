@@ -9,7 +9,7 @@ TARGET = STARTKIT
 APP_NAME = Robot
 
 # The USED_MODULES variable lists other module used by the application.
-USED_MODULES = lib_i2c
+USED_MODULES = lib_i2c lib_xassert
 
 # The flags passed to xcc when building the application
 # You can also set the following to override flags for a particular language:
